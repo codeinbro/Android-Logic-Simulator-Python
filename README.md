@@ -20,5 +20,10 @@ The purpose is to learn **digital logic gates (AND, OR, NOT, etc.)** and underst
 
 ---
 
+## Feedback
+If you have any **suggestions or improvements**, please feel free to submit them via **GitHub Issues** or contact me through my **GitHub profile**.  
+
+---
+
 ## License
 This project is **open-source** under the **MIT License**.
